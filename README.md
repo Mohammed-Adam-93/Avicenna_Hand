@@ -25,7 +25,7 @@ Arduino side:<b>
 -C920 Pro HD WEBCAM
 
 # Demonstartion
-https://github.com/Mohammed-Adam-93/Avicenna_Hand/Images/ledControl.mp4
+https://videotourl.com/videos/1786963851830-e874cee5-d6d3-4a20-8fe4-920fb6f08b55.mp4
 # Budget
 
 | Components  | Qt | Price(Euro)| 
