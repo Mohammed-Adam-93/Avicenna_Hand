@@ -26,6 +26,12 @@ Arduino side:<b>
 
 # Demonstartion
 https://github.com/user-attachments/assets/7bd12186-04da-4706-9c22-52288e71a9ce
+
+# Wiring Diagram
+![Wiring Diagram](Images/wiring_diagram.png)
+
+
+
 # Budget
 
 | Components  | Qt | Price(Euro)| 
