@@ -24,6 +24,8 @@ Arduino side:<b>
 ![Camera](Images/camera.jpeg)
 -C920 Pro HD WEBCAM
 
+# Demonstartion
+
 # Budget
 
 | Components  | Qt | Price(Euro)| 
@@ -34,6 +36,6 @@ Arduino side:<b>
 | Connectors  | -  | 01.0       |   
 | Total       | -  | 97,85      |
 # Technologies used
--OpenCv(cv2)
--MediaPipe
+-OpenCv(cv2)<b>
+-MediaPipe<b>
 
