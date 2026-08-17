@@ -25,7 +25,7 @@ Arduino side:<b>
 -C920 Pro HD WEBCAM
 
 # Demonstartion
-https://videotourl.com/videos/1786963851830-e874cee5-d6d3-4a20-8fe4-920fb6f08b55.mp4
+https://github.com/user-attachments/assets/7bd12186-04da-4706-9c22-52288e71a9ce
 # Budget
 
 | Components  | Qt | Price(Euro)| 
