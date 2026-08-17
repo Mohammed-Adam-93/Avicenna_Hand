@@ -42,6 +42,6 @@ https://github.com/user-attachments/assets/7bd12186-04da-4706-9c22-52288e71a9ce
 | Connectors  | -  | 01.0       |   
 | Total       | -  | 97,85      |
 # Technologies used
--OpenCv(cv2)<b>
--MediaPipe<b>
+-OpenCv(cv2) <b>
+-MediaPipe <b>
 
